@@ -1,0 +1,79 @@
+header {
+    margin: 5% 5% 1%;
+    border: 2px solid black;
+    padding: 5% 10% 5% 5%;
+    background-color: navy;
+    font-family: 'oswald', sans-serif;
+    color: white;
+    text-align: left;
+    max-width: 45em;
+}
+h2 {
+    font-family: 'oswald', sans-serif;
+}
+#menu{
+    margin: 1% 5% 1%;
+    border: 2px solid black;
+    padding: 5% 10% 5% 5%;
+    background-color: beige;
+    font-family: 'average', sans-serif;
+    color: black;
+    text-align: left;
+    max-width: 50em;
+}
+#first{
+    margin: 1% 5% 0%;
+    border: 2px solid black;
+    padding: 5% 10% 5% 5%;
+    background-color: lightskyblue;
+    font-family: 'average', sans-serif;
+    color: black;
+    text-align: left;
+    max-width: 50em;
+}
+#second{
+    margin: 0% 5% 0%;
+    border: 2px solid black;
+    padding: 5% 10% 5% 5%;
+    background-color: lightskyblue;
+    font-family: 'average', sans-serif;
+    color: black;
+    text-align: left;
+    max-width: 50em;
+}
+#third{
+    margin: 0% 5% 0%;
+    border: 2px solid black;
+    padding: 5% 10% 5% 5%;
+    background-color: lightskyblue;
+    font-family: 'average', sans-serif;
+    color: black;
+    text-align: left;
+    max-width: 50em;
+}
+#fourth{
+    margin: 0% 5% 1%;
+    border: 2px solid black;
+    padding: 5% 10% 5% 5%;
+    background-color: lightskyblue;
+    font-family: 'average', sans-serif;
+    color: black;
+    text-align: left;
+    max-width: 50em;
+}
+#resources{
+    margin: 1% 5% 1%;
+    border: 2px solid black;
+    padding: 5% 10% 5% 5%;
+    background-color: beige;
+    font-family: 'average', sans-serif;
+    color: black;
+    text-align: left;
+    max-width: 45em;
+}
+footer {
+    text-align: center;
+}
+iframe {
+    max-width: 100%;
+}
