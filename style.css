@@ -15,11 +15,24 @@ h2 {
     margin: 1% 5% 1%;
     border: 2px solid black;
     padding: 5% 10% 5% 5%;
-    background-color: beige;
+    background-color: whitesmoke;
     font-family: 'average', sans-serif;
     color: black;
     text-align: left;
     max-width: 50em;
+}
+#resources{
+    margin: 1% 5% 1%;
+    border: 2px solid black;
+    padding: 5% 10% 5% 5%;
+    background-color: whitesmoke;
+    font-family: 'average', sans-serif;
+    color: black;
+    text-align: left;
+    max-width: 45em;
+}
+footer {
+    text-align: center;
 }
 #first{
     margin: 1% 5% 0%;
@@ -41,39 +54,43 @@ h2 {
     text-align: left;
     max-width: 50em;
 }
-#third{
+#resume{
     margin: 0% 5% 0%;
     border: 2px solid black;
     padding: 5% 10% 5% 5%;
-    background-color: lightskyblue;
+    background-color: gainsboro;
     font-family: 'average', sans-serif;
     color: black;
     text-align: left;
     max-width: 50em;
 }
-#fourth{
+#recipe{
+    margin: 0% 5% 0%;
+    border: 2px solid black;
+    padding: 5% 10% 5% 5%;
+    background-color: gainsboro;
+    font-family: 'average', sans-serif;
+    color: black;
+    text-align: left;
+    max-width: 50em;
+}
+#city{
+    margin: 0% 5% 0%;
+    border: 2px solid black;
+    padding: 5% 10% 5% 5%;
+    background-color: gainsboro;
+    font-family: 'average', sans-serif;
+    color: black;
+    text-align: left;
+    max-width: 50em;
+}
+#youtube{
     margin: 0% 5% 1%;
     border: 2px solid black;
     padding: 5% 10% 5% 5%;
-    background-color: lightskyblue;
+    background-color: gainsboro;
     font-family: 'average', sans-serif;
     color: black;
     text-align: left;
     max-width: 50em;
-}
-#resources{
-    margin: 1% 5% 1%;
-    border: 2px solid black;
-    padding: 5% 10% 5% 5%;
-    background-color: beige;
-    font-family: 'average', sans-serif;
-    color: black;
-    text-align: left;
-    max-width: 45em;
-}
-footer {
-    text-align: center;
-}
-iframe {
-    max-width: 100%;
 }
